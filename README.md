@@ -1,0 +1,2 @@
+# exerciseswithjava
+Algorithmic calculation exercises
