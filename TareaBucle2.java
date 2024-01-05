@@ -18,7 +18,9 @@ public class TareaBucle2 {
             num2=resultado;
             
             System.out.println(resultado);
+            sc.close();
         }
+        
        
     }
 }

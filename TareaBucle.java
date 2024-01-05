@@ -34,6 +34,7 @@ public class TareaBucle {
 
       } while (num1 !=0);
       System.out.println("Has salido.");
+      sc.close();
       
     }
 }
