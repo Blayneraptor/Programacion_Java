@@ -12,6 +12,7 @@ public class Array1 {
         System.out.println("Array en sentido inverso:");
         for (int i = numeros.length - 1; i >= 0; i--) {
             System.out.println(numeros[i]);
+            
         }
     }
 }
