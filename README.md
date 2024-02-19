@@ -1,3 +1,1 @@
-# exerciseswithjava
-Algorithmic calculation exercises
-Probando 
+Ejercicios realizados durante el curso
