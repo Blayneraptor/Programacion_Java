@@ -15,7 +15,7 @@ public class ArrayMulti {
                 }
                 
             }
-            System.out.println("Fin de fila " + i + " --------------------------");
+            System.out.println("Fin de fila " + i + " -------------------------");
         }
 
 

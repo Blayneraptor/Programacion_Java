@@ -29,6 +29,6 @@ public class Array5 {
             System.out.println("Ha aprobado sacando un sobresaliente");
         } else {
             System.out.println("Ha suspendido");
-        }
+        }sc.close();
     }
 }
