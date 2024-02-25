@@ -25,6 +25,6 @@ public class Matrices2 {
                 System.out.print(matriz[i][j] + " ");
             }
             System.out.println(); 
-        }
+        }sc.close();
     }
 }
