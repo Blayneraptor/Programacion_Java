@@ -4,12 +4,14 @@ import java.util.HashSet;
 
 public class ArrayList1 {
 
-    // Desarrolla un programa en Java que elimine elementos duplicados de un ArrayList.
-    // Crear un ArrayList con elementos duplicados.
-    // Utilizar un HashSet para eliminar los elementos duplicados del ArrayList.
-    // Limpiar el ArrayList original.
-    // Añadir todos los elementos únicos del HashSet de vuelta al ArrayList.
-    // Finalmente, imprimir el ArrayList resultante, que ahora contendrá solo elementos únicos.
+    /*Desarrolla un programa en Java que elimine elementos duplicados de un ArrayList.
+    Crear un ArrayList con elementos duplicados.
+    Utilizar un HashSet para eliminar los elementos duplicados del ArrayList.
+    Limpiar el ArrayList original.
+    Añadir todos los elementos únicos del HashSet de vuelta al ArrayList.
+    Finalmente, imprimir el ArrayList resultante, que ahora contendrá solo elementos únicos.
+    
+    Autor: Jose P. Couso  "Blayneraptor" */
 
     public static void main(String[] args) {
        

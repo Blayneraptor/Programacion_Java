@@ -1,6 +1,12 @@
 package Arrays;
 import java.util.Scanner;
 
+/* Desarrolla un programa en Java que solicite al usuario ingresar la longitud
+de una tabla o array. Luego, inicializa el array con números del 1 al tamaño
+especificado e imprime la tabla utilizando diferentes tipos de bucles: for,
+while y visualmente con barras verticales.
+ Autor: Jose P. Couso  "Blayneraptor"  */
+
 public class Array6 {
     
     public static void main(String[] args) {

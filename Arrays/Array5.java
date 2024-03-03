@@ -1,6 +1,12 @@
 package Arrays;
 import java.util.Scanner;
 
+/* Desarrolla un programa en Java que solicite al usuario ingresar 6 notas.
+El programa debe calcular la nota media, imprimirla con dos decimales y luego
+determinar si el estudiante aprobó o no, mostrando el resultado correspondiente
+(aprobado con notable, bien, sobresaliente o suspendido).
+ Autor: Jose P. Couso  "Blayneraptor"  */
+
 public class Array5 {
     
     public static void main(String[] args) {

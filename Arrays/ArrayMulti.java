@@ -1,8 +1,16 @@
 package Arrays;
 public class ArrayMulti {
+    
+/* Desarrolla un programa en Java que inicialice una matriz tridimensional de
+cadenas de texto con dimensiones 3x3x3. Luego, llena la matriz con cadenas
+que representen la posición de cada elemento en la matriz y muestra cada
+elemento.
+ Autor: Jose P. Couso  "Blayneraptor" */
+
+
     public static void main(String[] args) {
         
-        //Como hacer un array tridimensional
+       
 
         String lista[][][]= new String[3][3][3];
 

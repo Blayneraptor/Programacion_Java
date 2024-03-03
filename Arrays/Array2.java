@@ -1,6 +1,16 @@
 package Arrays;
 import java.util.Scanner;
 
+/* Desarrolla un programa en Java que solicite al usuario ingresar dos arrays de números enteros y luego cree un tercer array que contenga los elementos de los dos primeros arrays combinados.
+El programa deberá realizar lo siguiente:
+Solicitar al usuario que ingrese el número de posiciones que tendrá el primer array.
+Solicitar al usuario que ingrese los números para cada posición del primer array.
+Solicitar al usuario que ingrese el número de posiciones que tendrá el segundo array.
+Solicitar al usuario que ingrese los números para cada posición del segundo array.
+Crear un tercer array que contenga los elementos de los dos primeros arrays combinados.
+Imprimir el tercer array que contiene los datos de los dos primeros arrays.
+ Autor: Jose P. Couso  "Blayneraptor" */ 
+
 public class Array2 {
     
     public static void main(String[] args) {

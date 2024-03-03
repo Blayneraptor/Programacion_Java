@@ -1,5 +1,15 @@
 package Arrays;
+
+/* Desarrolla un programa en Java que inicialice un array de enteros con los números del 1 al 10 en orden ascendente, y luego imprima los elementos en orden descendente.
+El programa deberá realizar lo siguiente:
+Inicializar un array de enteros con tamaño 10.
+Llenar el array con los números del 1 al 10 en orden ascendente.
+Imprimir los elementos del array en orden descendente.
+ Autor: Jose P. Couso  "Blayneraptor" */ 
+
+
 public class Array1 {
+
 
     public static void main(String[] args) {
        

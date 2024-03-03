@@ -1,6 +1,12 @@
 package Boolean;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa en Java que verifique si una palabra es un palíndromo.
+Imprime la palabra al revés y muestra si es un palíndromo o no.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class Boolean1 {
     public static void main(String[] args) {
         

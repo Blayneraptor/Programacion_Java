@@ -3,13 +3,16 @@ package Boolean;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/*  Escribe un programa que simule un sistema de acceso a una red social. El programa debe solicitar al usuario que ingrese su nombre de usuario y contraseña.
+    Luego, verifica si el nombre de usuario y la contraseña ingresados coincidenbcon los almacenados en el sistema.
+    Si coinciden, el programa debe imprimir "Bienvenido", de lo contrario debe repetir los datos.
+    Autor: Jose P. Couso  "Blayneraptor" */
+
 public class Boolean2 {
 
     public static void main(String[] args) {
 
-        // Escribe un programa que simule un sistema de acceso a una red social. El programa debe solicitar al usuario que ingrese su nombre de usuario y contraseña.
-        // Luego, verifica si el nombre de usuario y la contraseña ingresados coincidenbcon los almacenados en el sistema.
-        // Si coinciden, el programa debe imprimir "Bienvenido", de lo contrario debe repetir los datos.
+  
 
 
         Scanner sc = new Scanner(System.in);
