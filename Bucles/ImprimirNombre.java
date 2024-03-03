@@ -1,6 +1,12 @@
 package Bucles;
 import java.util.Scanner;
 
+
+/*
+Desarrolla un programa que solicite al usuario ingresar su nombre y luego lo imprima 10 veces.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class ImprimirNombre {
     
         public static void main(String[] args) {

@@ -1,6 +1,13 @@
 package Bucles;
 import java.util.Scanner;
 
+
+/*
+Desarrolla un programa que solicite al usuario ingresar un número entero del 1 al 12. Luego, imprime la
+tabla de multiplicar correspondiente al número ingresado. El programa se cerrará después de mostrar la tabla.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class TablaMultiplicar {
     
 
@@ -22,17 +29,5 @@ public class TablaMultiplicar {
         }
 
         
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

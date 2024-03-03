@@ -1,6 +1,13 @@
 package Bucles;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar 10 números. Calcula la
+cantidad de números pares, la suma de los números pares y el promedio de los
+números impares.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class Calculos10num {
 
     public static void main(String[] args) {

@@ -1,6 +1,14 @@
 package Condicionales;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar su género y nombre.
+Si el género es "masculino", imprime "Bienvenido" seguido del nombre.
+Si el género es "femenino", imprime "Bienvenida" seguido del nombre.
+De lo contrario, imprime "Hola Indeciso".
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class AlgoritGeneros {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

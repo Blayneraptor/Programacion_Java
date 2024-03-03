@@ -1,6 +1,11 @@
 package Bucles;
 import java.util.Scanner;
 
+/*
+Crea un programa que solicite al usuario 5 números enteros. Calcula y muestra la media aritmética de los números ingresados.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class CalcularMedia {
     public static void main(String[] args) {
         

@@ -1,6 +1,13 @@
 package Bucles;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar un número entre 0 y 999,
+y luego imprima la cantidad de dígitos que tiene ese número. El programa debe
+terminar si el usuario ingresa 0.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class TareaBucle4 {
 
     public static void main(String[] args) {

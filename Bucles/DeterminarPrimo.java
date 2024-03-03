@@ -1,6 +1,12 @@
 package Bucles;
 import java.util.Scanner;
 
+/*
+Crea un programa que solicite al usuario ingresar un número positivo. Determina
+si el número ingresado es primo o no.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class DeterminarPrimo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

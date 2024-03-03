@@ -2,6 +2,13 @@ package Bucles;
 import java.util.Random;
 import java.util.Scanner;
 
+
+/*
+Crea un programa que solicite al usuario dos números y genere 5 números aleatorios
+entre esos dos números, mostrándolos al usuario.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class GenerarDos {
     public static void main(String[] args) {
         

@@ -1,5 +1,9 @@
 package Bucles;
 import java.util.Scanner;
+/*
+Desarrolla un programa que imprima los números del 100 al 0 en decrementos de 10.
+Autor: Jose P. Couso "Blayneraptor"
+*/
 
 public class ImprimirNum10 {
     
