@@ -1,6 +1,11 @@
 package Condicionales;
 import java.util.Scanner;
 
+/* Desarrolla un programa que calcule el descuento del 2% en una venta si el
+importe supera los 100 euros. Imprime el total a pagar.
+Autor: Jose P. Couso "Blayneraptor" */
+
+
 public class VentaDescuento {
  
     public static void main (String[]args){

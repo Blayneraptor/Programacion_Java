@@ -1,5 +1,10 @@
 package Condicionales;
 
+/*
+Desarrolla un programa que imprima las tablas de multiplicar del 1 al 10.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class ifTablaMulti {
     
     public static void main(String[] args) {

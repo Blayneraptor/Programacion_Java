@@ -1,4 +1,9 @@
 package Math;
+
+/* Implementa un programa que utilice las funciones matemáticas de la clase Math
+para calcular diferentes operaciones y mostrar los resultados.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class DiseñarEnunciado2 {
 
     public static void main( String args[] ) {

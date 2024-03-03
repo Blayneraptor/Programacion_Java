@@ -1,4 +1,9 @@
 package Math;
+
+/* Desarrolla un programa que utilice métodos de la clase Math y de la clase String
+para realizar diversas operaciones y mostrar los resultados.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class DiseñarEnunciados4 {
     public static void main(String[] args) {
         

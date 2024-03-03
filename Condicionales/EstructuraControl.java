@@ -1,6 +1,12 @@
 package Condicionales;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar dos números.
+El programa determinará cuál de los dos números es mayor e imprimirá un mensaje indicando el resultado.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class EstructuraControl {
     public static void main(String[] args) {
         

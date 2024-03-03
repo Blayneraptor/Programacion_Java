@@ -1,6 +1,12 @@
 package Condicionales;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar dos números y un operador (+, -, *, /).
+Luego, realiza la operación correspondiente e imprime el resultado.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class AlgoritmoCalculoOperador {
     
 

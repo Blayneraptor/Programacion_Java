@@ -1,5 +1,11 @@
 package Condicionales;
 import java.util.Scanner;
+/*
+Desarrolla un programa que solicite al usuario ingresar las notas de 6 alumnos.
+Luego, determina cuántos alumnos aprobaron (nota mayor o igual a 5),
+cuántos suspendieron (nota menor a 4) y cuántos están en condición (nota entre 4 y 5).
+Autor: Jose P. Couso "Blayneraptor"
+*/
 
 public class ifNotas {
     

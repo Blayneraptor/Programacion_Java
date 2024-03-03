@@ -1,6 +1,11 @@
 package Condicionales;
 import java.util.Scanner;
 
+/* Desarrolla un programa que inicialice un array de enteros con los números
+del 1 al 10 en orden ascendente. Imprimir los elementos del array en orden
+descendente.
+Autor: Jose P. Couso  "Blayneraptor" */
+
 public class TareaCondicionales {
     
     public static void main(String[] args) {

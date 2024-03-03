@@ -1,6 +1,12 @@
 package Condicionales;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar números hasta que ingrese 0.
+El programa debe indicar si cada número ingresado es par, impar o cero.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class ifLeerParImpar {
     
     public static void main(String[] args) {

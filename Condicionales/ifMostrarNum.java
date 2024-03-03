@@ -1,6 +1,12 @@
 package Condicionales;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar un número.
+Luego, muestra todos los números desde 1 hasta el número ingresado.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class ifMostrarNum {
     
     public static void main(String[] args) {

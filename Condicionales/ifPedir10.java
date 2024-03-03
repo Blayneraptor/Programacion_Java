@@ -1,6 +1,13 @@
 package Condicionales;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar 10 números.
+Luego, calcula y muestra la suma de los números positivos, la suma de los negativos,
+y la cantidad de ceros ingresados.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class ifPedir10 {
     public static void main(String[] args) {
 

@@ -1,6 +1,11 @@
 package Math;
 import java.util.Scanner;
 
+/* Desarrolla un programa que calcule el volumen de una esfera dado su radio.
+El usuario introduce el radio de la esfera y el programa muestra el volumen calculado,
+mostrando solo tres decimales.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class TareaMath {
     
     public static void main(String[] args) {

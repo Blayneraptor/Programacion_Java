@@ -1,6 +1,18 @@
 package Condicionales;
 import java.util.Scanner;
 
+
+/*
+Desarrolla un programa que solicite al usuario ingresar una nota.
+Luego, muestra un mensaje según la siguiente escala de notas:
+
+Menor que 5: Insuficiente
+Entre 5 (inclusive) y menor que 7: Suficiente
+Entre 7 (inclusive) y menor que 9: Notable
+Mayor o igual a 9: Sobresaliente
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class ifPedirNota {
     
     public static void main(String[] args) {

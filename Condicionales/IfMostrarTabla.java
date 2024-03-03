@@ -1,6 +1,12 @@
 package Condicionales;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar un número entre 0 y 10.
+Luego, muestra la tabla de multiplicar de ese número.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class IfMostrarTabla {
     
     public static void main(String[] args) {

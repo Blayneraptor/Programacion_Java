@@ -1,5 +1,10 @@
 package Math;
 import java.util.Scanner;
+
+/* Desarrolla un programa que calcule el área de un círculo dado su radio.
+El usuario introduce el radio del círculo y el programa muestra el área calculada.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class RadioCirculo {
 
     public static void main(String[] args) {

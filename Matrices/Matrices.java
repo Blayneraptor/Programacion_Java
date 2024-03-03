@@ -1,4 +1,11 @@
-    public class Matrices {
+   /*
+Desarrolla un programa que trabaje con matrices. El programa inicializa una matriz bidimensional de enteros
+y encuentra el mayor y el menor valor en la matriz. Luego, imprime los valores de la primera fila y de la 
+última fila de la matriz.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
+   public class Matrices {
     public static void main(String[] args) {
         int[][] matriz = {
                 {3, 4, 5, 7, 8},

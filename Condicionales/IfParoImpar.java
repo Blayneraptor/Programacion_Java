@@ -1,6 +1,12 @@
 package Condicionales;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que solicite al usuario ingresar un número.
+Determina si el número ingresado es positivo o negativo, y muestra el resultado.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class IfParoImpar {
     
 

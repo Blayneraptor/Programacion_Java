@@ -1,4 +1,10 @@
 import java.util.Scanner;
+/*
+Desarrolla un programa que sume dos matrices cuadradas del mismo tamaño. El usuario proporciona el tamaño (n)
+de las matrices y los valores para cada una de las dos matrices. El programa muestra las matrices ingresadas
+y luego muestra el resultado de la suma de las dos matrices.
+Autor: Jose P. Couso "Blayneraptor"
+*/
 
 public class Matrices3 {
     public static void main(String[] args) {

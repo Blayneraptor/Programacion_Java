@@ -1,6 +1,11 @@
 package Condicionales;
 import java.util.Scanner;
 
+/*
+Desarrolla un programa que calcule el factorial de un número ingresado por el usuario.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 public class ifFactorial {
 
     public static void main(String[] args) {

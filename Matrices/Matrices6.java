@@ -1,4 +1,10 @@
 import java.util.Scanner;
+/*
+Desarrolla un programa que solicite al usuario introducir números para llenar una matriz de 4x4,
+y luego imprima la matriz resultante.
+Autor: Jose P. Couso "Blayneraptor"
+*/
+
 
 public class Matrices6 {
 
