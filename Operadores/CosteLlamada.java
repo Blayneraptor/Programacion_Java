@@ -1,6 +1,9 @@
 package Operadores;
 import java.util.Scanner;
 
+/* Calcula el costo de una llamada en base a los minutos hablados.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class CosteLlamada {
 
     public static void main(String[] args) {
