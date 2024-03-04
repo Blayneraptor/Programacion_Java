@@ -1,6 +1,10 @@
 package Operadores;
 import java.util.Scanner;
 
+
+/* Diseña la ecuación cuadrática y muestra las soluciones reales si existen.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class DiseñarEcuacion {
     public static void main(String[] args) {
         

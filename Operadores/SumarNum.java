@@ -1,6 +1,9 @@
 package Operadores;
 import java.util.Scanner;
 
+/* Solicita dos números al usuario, suma y muestra el resultado.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class SumarNum {
     public static void main(String[] args) {
         

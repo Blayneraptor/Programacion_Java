@@ -1,6 +1,9 @@
 package Operadores;
 import java.util.Scanner;
 
+/* Calcula e imprime el precio total de un artículo añadiendo el IVA (21%).
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class PrecioIva {
     
     public static void main(String[] args) {

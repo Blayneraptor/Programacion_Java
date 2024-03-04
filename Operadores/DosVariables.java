@@ -1,6 +1,10 @@
 package Operadores;
 import java.util.Scanner;
 
+
+/* Intercambia los valores de dos variables A y B e imprime los resultados.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class DosVariables {
     
     public static void main(String[] args) {

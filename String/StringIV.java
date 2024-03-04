@@ -1,4 +1,8 @@
 package String;
+
+/* Separa una frase en palabras e imprime cada palabra por separado.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class StringIV {
     public static void main(String[] args) {
         

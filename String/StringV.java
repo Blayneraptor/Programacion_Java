@@ -1,6 +1,9 @@
 package String;
 import java.util.Scanner;
 
+/* Verifica y guarda un email que contenga "@" y ".".
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class StringV {
 
     public static void main(String[] args) {

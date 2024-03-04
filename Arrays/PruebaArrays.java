@@ -1,7 +1,11 @@
-package String;
+package Arrays;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+
+/* Realiza operaciones básicas con ArrayList: agregar, acceder por índice, verificar presencia.
+Autor: Jose P. Couso "Blayneraptor" */
 
 public class PruebaArrays {
 

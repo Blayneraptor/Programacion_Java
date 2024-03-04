@@ -1,6 +1,10 @@
 package String;
 import java.util.Scanner;
 
+
+/* Convierte días a meses, años y semanas. Muestra resultados con dos decimales.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class DeterminarDias {
 
     public static void main(String[] args) {

@@ -1,6 +1,18 @@
 package String;
 import java.util.Scanner;
 
+
+/* Verifica y guarda un email con ciertas características.
+
+Debe contener solo una "@".
+El "@" debe aparecer una sola vez en el email.
+Debe tener un punto "." al final.
+La longitud mínima del email debe ser de al menos 20 caracteres.
+El email introducido aparecerá en minúsculas.
+
+Autor: Jose P. Couso "Blayneraptor"
+ */
+
 public class StringII {
     public static void main(String[] args) {
 

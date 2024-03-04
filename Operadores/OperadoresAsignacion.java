@@ -1,6 +1,18 @@
 package Operadores;
 import java.util.Scanner;
 
+
+/* Muestra las variaciones de saldo desde el 15 de septiembre hasta el 14 de diciembre:
+
+17 de septiembre: +27.50 euros
+19 de septiembre: x2
+26 de septiembre: /2
+1 de noviembre: +250.38 euros
+12 de noviembre: -55.37 euros
+29 de noviembre: +1200.96 euros
+11 de diciembre: -85.23 euros
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class OperadoresAsignacion{
 
     public static void main(String[] args) {

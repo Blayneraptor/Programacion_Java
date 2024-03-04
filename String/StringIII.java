@@ -1,6 +1,17 @@
 package String;
 import java.util.Scanner;
 
+
+/* Realiza operaciones con un texto dado:
+
+Imprime la mitad de los caracteres.
+Imprime el último caracter.
+Imprime el texto al revés.
+Imprime todas las vocales separadas por un guión.
+Cuenta y muestra el número de vocales.
+Verifica si el texto es un palíndromo.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class StringIII {
 
     public static void main(String[] args) {

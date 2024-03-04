@@ -2,7 +2,7 @@ package Operadores;
 public class DefinirEnunciado {
         public static void main(String[] args) {
 
-            /*Enunciado
+            /*
             Haz un programa en el que se presenten dos participantes y hagan un lanzamiento cada uno de unos dados.
             El que mayor puntuación saque, es el ganador.
             */

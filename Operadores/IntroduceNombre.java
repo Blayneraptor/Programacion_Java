@@ -1,6 +1,9 @@
 package Operadores;
 import java.util.Scanner;
 
+/* Solicita y muestra el nombre del usuario.
+Autor: Jose P. Couso "Blayneraptor" */
+
 public class IntroduceNombre {
     
     public static void main(String[] args) {
