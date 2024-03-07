@@ -44,9 +44,7 @@ public class ArrayList2 {
 
         System.out.println("Accedemos al último producto del inventario " + UltimoProducto);
 
-       
 
     }
-
 
 }
