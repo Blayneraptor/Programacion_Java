@@ -52,7 +52,6 @@ public class ArrayList5 {
 
     for (int i=0;i<arraynumeros.length;i++){
         System.out.print(arraynumeros[i] + " ");
-    }
-
+      }
     }
 }
