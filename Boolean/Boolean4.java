@@ -13,11 +13,10 @@ public class Boolean4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Pedir la fecha de nacimiento al usuario
         System.out.print("Introduzca su fecha de nacimiento (dd/mm/aaaa): ");
         String fechaNacimientoStr = scanner.nextLine();
 
-        // Convertir la fecha de nacimiento a un objeto Date
+        
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
         Date fechaNacimiento = null;
         try {
@@ -25,20 +24,20 @@ public class Boolean4 {
         } catch (Exception e) {
             System.out.println("Error al convertir la fecha de nacimiento.");
             e.printStackTrace();
+            scanner.close();
             return;
         }
 
-        // Calcular la edad de la persona
         long milisegundosEnUnAnio = 31557600000L;
         long diferenciaMilisegundos = System.currentTimeMillis() - fechaNacimiento.getTime();
         int edad = (int) (diferenciaMilisegundos / milisegundosEnUnAnio);
 
-        // Mostrar un mensaje que indique si la persona es mayor de edad o no
+        
         if (edad >= 18) {
             System.out.println("Usted es mayor de edad.");
         } else {
             System.out.println("Usted es menor de edad.");
-        }
+        }scanner.close();
         
     }
 }
