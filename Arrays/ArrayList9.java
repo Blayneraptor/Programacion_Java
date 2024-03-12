@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.*;
 
 /* Realizar un programa donde se almacenan los nombres de diferentes animales. Se 
