@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.*;
 
 /* Crear un arraylist con 5 valores de tipo integer. Calcular la media de todos los valores. 
