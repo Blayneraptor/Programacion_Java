@@ -56,12 +56,25 @@ public class ArrayList12 {
                     System.out.println(empleados);
                     break;
                 case 3:
-                    System.out.println("Borre un nombre.");
-                    System.out.println(empleados);
-                    String nombreremove = sc.next();
-                    empleados.remove(nombreremove);
-                    opcion = "Nombre borrado.";
-                    System.out.println(empleados);
+                    System.out.println("Borra un nombre. Indique borrar por posicion(p) o nombre(n):");
+                    String eleccion = sc.next();
+                    if (eleccion.equals("p")) {
+                        System.out.println("Elija posición a borrar: ");
+                        System.out.println(empleados);
+                        int eleccionp = sc.nextInt();
+                        empleados.remove(eleccionp);
+                        System.out.println("Nombre elegido borrado. Lista actualizada:  \n " + empleados);
+                        break;
+                    } else if (eleccion.equals("n")) {
+                        System.out.println("Elija nombre a borrar: ");
+                        System.out.println(empleados);
+                        String eleccionn = sc.next();
+                        empleados.remove(eleccionn);
+                        System.out.println("Nombre elegido borrado: \n  " + empleados);
+                        break;
+                    } else {
+                        System.out.println("Respuesta inválida.");
+                    }
                     break;
                 case 4:
                     System.out.println("Compruebe si un nombre está en la lista.");
@@ -74,8 +87,8 @@ public class ArrayList12 {
                     }
                     break;
                 case 5:
-                System.out.println(empleados);
-                break;
+                    System.out.println(empleados);
+                    break;
                 case 6:
                     continuar = false;
                     System.out.println("Saliendo del programa.");
