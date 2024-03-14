@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.*;
 
 /* Crea un programa para gestionar una lista de números utilizando tanto un ArrayList 
@@ -16,7 +17,7 @@ public class ArrayList16 {
         int numero;
         do {
             System.out.println(
-                    "Elija una opción: \n1-Agregar numeros. \n2-Calcular suma. \n3-Encontrar el número más grande. \n4-Salir");
+                    "Elija una opción: \n1-Agregar numeros. \n2-Calcular suma. \n3-Encontrar el número más grande. \n4-Convertir Array tradicional. \n5-Salir");
             numero = sc.nextInt();
 
             switch (numero) {
@@ -51,14 +52,21 @@ public class ArrayList16 {
                         System.out.println("La lista está vacía. No hay números para encontrar.");
                     }
                     break;
+
                 case 4:
+                    
+                    Integer[] array = lista.toArray(new Integer[lista.size()]);
+                    
+                    System.out.println("Array tradicional: " + Arrays.toString(array));
+                    break;
+                case 5:
                     System.out.println("Has salido del programa.");
                     break;
                 default:
                     System.out.println("Opción no válida. Inténtelo de nuevo.");
                     break;
             }
-        } while (numero != 4);
+        } while (numero != 5);
         sc.close();
 
     }

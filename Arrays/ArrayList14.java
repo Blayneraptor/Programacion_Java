@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.*;
 
 /* Diseña un programa que almacena n números aleatorios, positivos. Se pide:
