@@ -9,32 +9,29 @@ public class Bibliotecario {
     public String cargo;
     public List<Libro> librosPrestados;
 
-    //Constructor
+    // Constructor
 
-public Bibliotecario (String nombre, int edad, String cargo){
+    public Bibliotecario(String nombre, int edad, String cargo) {
 
-    this.nombre=nombre;
-    this.edad=edad;
-    this.cargo=cargo;
-    this.librosPrestados= new ArrayList<>();
+        this.nombre = nombre;
+        this.edad = edad;
+        this.cargo = cargo;
+        this.librosPrestados = new ArrayList<>();
 
+    }
 
-}
+    public void imprimir() {
 
-public void imprimir (){
+        System.out.println("El nombre del bibliotecario es : " + nombre);
+        System.out.println("La edad del bibliotecario es : " + edad);
+        System.out.println("El cargo del bibliotecario es : " + cargo);
 
-    System.out.println("El nombre del bibliotecario es : " + nombre);
-    System.out.println("La edad del bibliotecario es : " + edad);
-    System.out.println("El cargo del bibliotecario es : " + cargo);
+    }
 
-}
+    public void prestar(Libro libro) {
+        librosPrestados.add(libro);
+        System.out.println("El bibliotecario " + nombre + " ha prestado el libro " + libro.titulo);
 
-public void prestar (Libro libro){
-    librosPrestados.add(libro);
-    System.out.println("El bibliotecario " + nombre + " ha prestado el libro " + libro.titulo);
-
-
-}
-
+    }
 
 }
