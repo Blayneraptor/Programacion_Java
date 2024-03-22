@@ -1,4 +1,4 @@
-# Ejercicios de programación Java realizados durante el curso.
+# Ejercicios de programación Java realizados durante el curso (Y otros añadidos para mi aprendizaje).
 
 🖥️ Este repositorio contiene una colección de ejercicios de programación en Java desarrollados utilizando Visual Studio Code. 
 
