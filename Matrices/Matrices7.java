@@ -3,13 +3,14 @@ import java.util.Scanner;
 public class Matrices7 {
 
     /*
-     * Diseña un programa en Java que pide por pantalla una palabra de x caracteres.
-     * Se
-     * debe crear una matriz con el mismo número de celdas que letras tiene la
-     * palabra.
-     * Consideraciones:
-     * • Cada letra se debe almacenar en una celda.
-     * • Se debe comprobar si hay algún valor repetido en alguna celda.
+       Diseña un programa en Java que pide por pantalla una palabra de x caracteres.
+       Se debe crear una matriz con el mismo número de celdas que letras tiene la
+       palabra.
+       Consideraciones:
+      • Cada letra se debe almacenar en una celda.
+      • Se debe comprobar si hay algún valor repetido en alguna celda.
+
+      Autor: Jose P. Couso "Blayneraptor"
      */
 
     public static void main(String[] args) {
