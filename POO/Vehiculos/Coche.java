@@ -58,7 +58,7 @@ public class Coche {
         }
     }
 
-    public int precio_coche() {
+    public int getPrecioCoche() {
 
         int precio_final = 10000;
         if (asientos_cuero == true) {
