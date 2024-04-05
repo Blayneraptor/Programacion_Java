@@ -15,7 +15,7 @@ public class uso_caballo {
         caballoUno.rumia();
         caballoUno.cabalga();
 
-        caballoTres.setNombre("Noche");
+        caballoTres.setNombre("Noche2");
         System.out.println(caballoTres.getDatos());
       }
     }
