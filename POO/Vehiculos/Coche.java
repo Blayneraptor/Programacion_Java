@@ -5,11 +5,11 @@ package POO.Vehiculos;
 
 public class Coche {
 
-    int ruedas;
-    int largo;
-    int ancho;
-    int motor;
-    int peso;
+    private int ruedas;
+    private int largo;
+    private int ancho;
+    private int motor;
+    private int peso;
 
     // Constructor
 
@@ -22,5 +22,14 @@ public class Coche {
         peso = 500;
 
     }
+
+    //Getters
+
+    public String getLargo(){
+        
+        return "El largo del coche es " + largo;
+
+    }
+
 
 }
