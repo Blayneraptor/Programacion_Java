@@ -1,4 +1,4 @@
-package POO.Vehiculos;
+package POO.Vehiculos.src;
 
 //Atributos
 
