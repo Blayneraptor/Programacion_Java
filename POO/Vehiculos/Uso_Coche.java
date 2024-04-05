@@ -16,6 +16,10 @@ public class Uso_Coche {
         micoche.setAsientos("si");
 
         System.out.println(micoche.getAsientos());
+
+        micoche.setClimatizador("si");
+        System.out.println(micoche.getClimatizador());
+
     }
 
 }
