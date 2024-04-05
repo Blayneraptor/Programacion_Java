@@ -5,11 +5,12 @@ public class Uso_Coche {
     
     public static void main(String[] args) {
         
-        Coche Renault = new Coche(); //Instanciamos la clase coche
+        Coche micoche= new Coche();
 
-        //System.out.println("Este coche tiene " + Renault.ruedas + " ruedas.");
-        
-        System.out.println(Renault.getLargo());
+       // micoche.setColor();
+
+        System.out.println(micoche.getColor());
+
 
     }
 
