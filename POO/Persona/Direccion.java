@@ -1,3 +1,4 @@
+package POO.Persona;
 public class Direccion {
 
     // Propiedades de la clase

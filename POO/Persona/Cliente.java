@@ -1,3 +1,4 @@
+package POO.Persona;
 public class Cliente {
     public String nombre;
     public String apellido;
