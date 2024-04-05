@@ -13,7 +13,9 @@ public class Uso_Coche {
 
         System.out.println(micoche.getColor());
 
+        micoche.setAsientos("si");
 
+        System.out.println(micoche.getAsientos());
     }
 
 }
