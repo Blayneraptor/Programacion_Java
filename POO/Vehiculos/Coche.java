@@ -82,7 +82,7 @@ public class Coche {
 
     public void setAsientos(String asientos_cuero) {
 
-        if (asientos_cuero == "si") {
+        if (asientos_cuero.equalsIgnoreCase("si")) {
             this.asientos_cuero = true;
         } else {
             this.asientos_cuero = false;
@@ -92,7 +92,7 @@ public class Coche {
 
     public void setClimatizador(String climatizador) {
 
-        if (climatizador == "si") {
+        if (climatizador.equalsIgnoreCase("si")) {
             this.climatizador = true;
         } else {
             this.climatizador = false;
