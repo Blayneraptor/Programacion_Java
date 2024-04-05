@@ -7,7 +7,7 @@ public class Coche {
     private int ruedas;
     private int largo;
     private int ancho;
-    private int motor;
+    private String motor;
     private int peso_plataforma;
     private String color;
     private int peso_total;
@@ -20,7 +20,6 @@ public class Coche {
         ruedas = 4;
         largo = 2000;
         ancho = 300;
-        motor = 1600;
         peso_plataforma = 500;
 
     }
@@ -70,6 +69,10 @@ public class Coche {
         return precio_final;
     }
 
+    public String getMotor(){
+        return motor;
+    }
+
     // <---------------------------------------------------------------------------------------------------------------------------->
 
     // Setters
@@ -98,6 +101,11 @@ public class Coche {
             this.climatizador = false;
         }
 
+    }
+
+    public void setMotor(String motor){
+
+        this.motor=motor;
     }
 
     // SETTER + GETTER (No se recomienda)
