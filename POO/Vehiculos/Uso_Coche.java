@@ -8,6 +8,7 @@ public class Uso_Coche {
         Coche Renault = new Coche(); //Instanciamos la clase coche
 
         System.out.println("Este coche tiene " + Renault.ruedas + " ruedas.");
+        
 
     }
 
