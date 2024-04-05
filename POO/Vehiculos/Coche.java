@@ -10,9 +10,9 @@ public class Coche {
     private int ancho;
     private int motor;
     private int peso_plataforma;
-    String color;
-    int peso_total;
-    boolean asientos_cuero,climatizador;
+    private String color;
+    private int peso_total;
+    private boolean asientos_cuero,climatizador;
 
     // Constructor
 
@@ -28,9 +28,11 @@ public class Coche {
 
     //Getters
 
-    public String getLargo(){
+    public String getDatosGenerales(){
 
-        return "El largo del coche es " + largo;
+        return "La plataforma del vehículo tiene " + ruedas + " ruedas"
+        + ". Mide " + largo/1000 + " metros con un ancho de " + ancho + " cm y un peso de plataforma de " +
+        peso_plataforma  + " kg.";
 
     }
 
@@ -42,9 +44,10 @@ public class Coche {
 
     //Setters
 
-    public void setColor(){
+    public void setColor(String color_coche){
 
-        color="azul";
+        color=color_coche;
+        
     }
 
 

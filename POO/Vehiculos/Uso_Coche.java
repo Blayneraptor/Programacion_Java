@@ -7,7 +7,9 @@ public class Uso_Coche {
         
         Coche micoche= new Coche();
 
-       // micoche.setColor();
+        micoche.setColor("marrón");
+
+        System.out.println(micoche.getDatosGenerales());
 
         System.out.println(micoche.getColor());
 
