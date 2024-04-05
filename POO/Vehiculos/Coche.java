@@ -42,12 +42,34 @@ public class Coche {
 
     }
 
+    public String getAsientos(){
+
+        if (asientos_cuero==true){
+            return "El coche tiene asientos de cuero";
+        } else {
+            return "El coche tiene asientos de serie";
+        }
+    }
+
+    //<---------------------------------------------------------------------------------------------------------------------------->
+
+
     //Setters
 
     public void setColor(String color_coche){
 
         color=color_coche;
         
+    }
+    
+    public void setAsientos(String asientos_cuero){
+
+        if(asientos_cuero=="si"){
+            this.asientos_cuero=true;
+        } else {
+            this.asientos_cuero=false;
+        }
+
     }
 
 
