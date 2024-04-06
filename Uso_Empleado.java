@@ -1,4 +1,4 @@
-
+import java.util.*;
 
 public class Uso_Empleado {
     
@@ -12,6 +12,15 @@ public class Uso_Empleado {
 
 class Empleado{
 
+    //Creamos constructor
+    public Empleado (String nombre, double sueldo, int anio, int mes, int dia){
 
-    
+
+
+    }
+
+    private String nombre;
+    private double sueldo;
+    private Date altaContrato;
+
 }
