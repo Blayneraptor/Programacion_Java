@@ -20,7 +20,7 @@ public class Uso_Coche {
 
         micoche.setClimatizador(JOptionPane.showInputDialog("¿Tiene climatizador?"));
 
-        micoche.setMotor(JOptionPane.showInputDialog("¿Cuanta cilindrada tiene?"));
+        micoche.setMotor(JOptionPane.showInputDialog("¿Cuánta cilindrada tiene?"));
 
         System.out.println("El coche tiene una cilindrada de " + micoche.getMotor() + " centímetros cúbicos.");
 

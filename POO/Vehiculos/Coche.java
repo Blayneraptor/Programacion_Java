@@ -69,7 +69,7 @@ public class Coche {
         return precio_final;
     }
 
-    public String getMotor(){
+    public String getMotor() {
         return motor;
     }
 
@@ -103,9 +103,9 @@ public class Coche {
 
     }
 
-    public void setMotor(String motor){
+    public void setMotor(String motor) {
 
-        this.motor=motor;
+        this.motor = motor;
     }
 
     // SETTER + GETTER (No se recomienda)
@@ -116,7 +116,7 @@ public class Coche {
         if (asientos_cuero == true)
             peso_total += 50;
         if (climatizador == true) {
-            peso_total += 20;
+            peso_total += 20; 
         }
         return "El peso del coche es " + peso_total;
     }
