@@ -1,5 +1,5 @@
 package POO.Aula;
-public class Main {
+public class MainAula {
     public static void main(String[] args) {
         // Creamos un profesor de matemáticas
         Profesor profesorMatematicas = new Profesor("Juan", 35, 'M', "matemáticas");

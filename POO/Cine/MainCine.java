@@ -1,5 +1,5 @@
 package POO.Cine;
-public class Main {
+public class MainCine {
     public static void main(String[] args) {
         // Crear una película
         Pelicula pelicula = new Pelicula("Titanic", 180, 12, "James Cameron");
