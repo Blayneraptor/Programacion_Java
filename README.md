@@ -10,5 +10,5 @@
 ## Contenido
 
 Dentro de este repositorio encontrarás carpetas organizadas por tema, cada una con ejercicios específicos de programación. Los temas incluyen:
-- 📁 Arrays, bucles, condicionales, operaciones matemáticas, booleanas, matrices, cadenas de texto y operadores.
+- 📁 POO,Arrays, bucles, condicionales, booleanas, matrices, .String , .Math y operadores matemáticos.
 
