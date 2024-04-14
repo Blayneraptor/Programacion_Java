@@ -1,4 +1,6 @@
+package POO.Rectangulo;
 public class Rectangulo {
+
     private double longitud;
     private double ancho;
 

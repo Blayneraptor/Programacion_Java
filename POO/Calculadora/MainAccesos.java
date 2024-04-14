@@ -1,7 +1,7 @@
 package POO.Calculadora;
 import java.util.*;
 
-public class Main {
+public class MainAccesos {
     public static void main(String[] args) {
 
         ControlDeAcceso acceso = new ControlDeAcceso();
