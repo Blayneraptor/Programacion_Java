@@ -1,3 +1,4 @@
+package POO.TiendaAnime;
 class ArticuloAnime {
     protected String nombre;
     protected int precio;

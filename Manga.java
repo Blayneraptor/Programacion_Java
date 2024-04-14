@@ -1,3 +1,5 @@
+import POO.TiendaAnime.ArticuloAnime;
+
 public class Manga extends ArticuloAnime {
 
     private int volumen;

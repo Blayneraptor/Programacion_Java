@@ -1,3 +1,5 @@
+import POO.TiendaAnime.ArticuloAnime;
+
 public class DVDAnime extends ArticuloAnime{
 
     private int duracionMinutos;

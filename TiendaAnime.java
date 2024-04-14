@@ -1,3 +1,5 @@
+import POO.TiendaAnime.ArticuloAnime;
+
 public class TiendaAnime {
     
     private ArticuloAnime[] articulos;
