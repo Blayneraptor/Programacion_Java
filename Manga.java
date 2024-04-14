@@ -6,7 +6,7 @@ public class Manga extends ArticuloAnime {
         super(nombre, precio, Descripción);
         this.volumen=volumen;
     }
-
+    @Override
     public String getDescripcion(){
         return super.getDescripcion()  + ", Volumen:" + volumen;
     }

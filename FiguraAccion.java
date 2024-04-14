@@ -6,7 +6,7 @@ public class FiguraAccion extends ArticuloAnime {
         super(nombre, precio, descripcion);
         this.personaje = personaje;
     }
-
+    @Override
     public String getDescripcion(){
         return super.getDescripcion() + ", Personaje: " + personaje;
     }

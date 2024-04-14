@@ -6,7 +6,7 @@ public class DVDAnime extends ArticuloAnime{
         super(nombre, precio, descripcion);
         this.duracionMinutos=duracionMinutos;
     }
-    
+    @Override
     public String getDescripcion(){
         return super.getDescripcion() + ", Duración en minutos: " + duracionMinutos;
     }
