@@ -1,5 +1,5 @@
 package POO.TiendaAnime;
-public class MainAnimal {
+public class MainTiendaAnime {
     public static void main(String[] args) {
         // Crear una tienda de artículos de anime con capacidad para 5 artículos
         TiendaAnime tienda = new TiendaAnime(5);
