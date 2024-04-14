@@ -1,3 +1,4 @@
+package POO.TiendaAnime;
 public class MainAnimal {
     public static void main(String[] args) {
         // Crear una tienda de artículos de anime con capacidad para 5 artículos

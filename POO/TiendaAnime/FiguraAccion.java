@@ -1,5 +1,4 @@
-import POO.TiendaAnime.ArticuloAnime;
-
+package POO.TiendaAnime;
 public class FiguraAccion extends ArticuloAnime {
 
     private String personaje;
