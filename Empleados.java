@@ -5,8 +5,14 @@ public class Empleados {
     private String nombre;
 
 
-    //Constructor
+    //Constructor por defecto
 
+    public Empleados(){
+        this.nombre="Jose";
+    }
+
+    //Constructor con parámetros
+    
     public Empleados(String nombre) {
         this.nombre = nombre;
     }
@@ -14,7 +20,11 @@ public class Empleados {
     //Getters
 
     public String getNombre() {
-        return nombre;
+        return this.nombre;
+    }
+
+    public String toString(){
+        return "Empleado " + nombre;
     }
 
     //Setters
@@ -22,6 +32,8 @@ public class Empleados {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+
+    
 
 
 }
