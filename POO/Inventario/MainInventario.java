@@ -1,5 +1,5 @@
 package POO.Inventario;
-public class Main {
+public class MainInventario {
     public static void main(String[] args) {
         // Crear un inventario
         Inventario inventario = new Inventario();
