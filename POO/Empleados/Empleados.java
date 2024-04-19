@@ -1,3 +1,4 @@
+package POO.Empleados;
 public class Empleados {
     
     //Atributos

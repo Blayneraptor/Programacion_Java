@@ -1,14 +1,15 @@
-public class Directivo extends Empleados {
+package POO.Empleados;
+public class Operario extends Empleados {
     
     //Constructor por defecto
 
-    public Directivo(){
+    public Operario(){
         super();
     }
 
     //Constructor por parámetros
 
-    public Directivo(String nombre){
+    public Operario(String nombre){
         super(nombre);
     }
 
@@ -16,7 +17,7 @@ public class Directivo extends Empleados {
     //Sobreescribir método String
     @Override
     public String toString() {
-        return "Directivo " + getNombre();
+        return "Operario " + getNombre();
     }
 
 }

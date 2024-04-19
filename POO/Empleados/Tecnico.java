@@ -1,3 +1,4 @@
+package POO.Empleados;
 public class Tecnico extends Empleados {
     
     //Constructor por defecto
@@ -16,7 +17,7 @@ public class Tecnico extends Empleados {
     //Sobreescribir método String
     @Override
     public String toString() {
-        return "Tecnico " + getNombre();
+        return "Técnico " + getNombre();
     }
 
 }
