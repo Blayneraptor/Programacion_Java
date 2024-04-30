@@ -1,0 +1,938 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Arrays.Array1",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Arrays.Array2",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Array3",
+            "request": "launch",
+            "mainClass": "Arrays.Array3",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Array4",
+            "request": "launch",
+            "mainClass": "Arrays.Array4",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Array5",
+            "request": "launch",
+            "mainClass": "Arrays.Array5",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Array6",
+            "request": "launch",
+            "mainClass": "Arrays.Array6",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Array7",
+            "request": "launch",
+            "mainClass": "Arrays.Array7",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList1",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList1",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList10",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList10",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList11",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList11",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList12",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList12",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList13",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList13",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList14",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList14",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList15",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList15",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList16",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList16",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList2",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList2",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList3",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList3",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList4",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList4",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList5",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList5",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList6",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList6",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList7",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList7",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList8",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList8",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList9",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayList9",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMulti",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayMulti",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "PruebaArrays",
+            "request": "launch",
+            "mainClass": "Arrays.PruebaArrays",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Boolean1",
+            "request": "launch",
+            "mainClass": "Boolean.Boolean1",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Boolean2",
+            "request": "launch",
+            "mainClass": "Boolean.Boolean2",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Boolean3",
+            "request": "launch",
+            "mainClass": "Boolean.Boolean3",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Boolean4",
+            "request": "launch",
+            "mainClass": "Boolean.Boolean4",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Boolean5",
+            "request": "launch",
+            "mainClass": "Boolean.Boolean5",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "AdivinarNum",
+            "request": "launch",
+            "mainClass": "Bucles.AdivinarNum",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "CalcularMedia",
+            "request": "launch",
+            "mainClass": "Bucles.CalcularMedia",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Calculos10num",
+            "request": "launch",
+            "mainClass": "Bucles.Calculos10num",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "DeterminarPrimo",
+            "request": "launch",
+            "mainClass": "Bucles.DeterminarPrimo",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Foreach",
+            "request": "launch",
+            "mainClass": "Bucles.Foreach",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "GenerarAleatorios",
+            "request": "launch",
+            "mainClass": "Bucles.GenerarAleatorios",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "GenerarDos",
+            "request": "launch",
+            "mainClass": "Bucles.GenerarDos",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ImprimirNombre",
+            "request": "launch",
+            "mainClass": "Bucles.ImprimirNombre",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ImprimirNum10",
+            "request": "launch",
+            "mainClass": "Bucles.ImprimirNum10",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ImprimirNumeros",
+            "request": "launch",
+            "mainClass": "Bucles.ImprimirNumeros",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "PidePantalla",
+            "request": "launch",
+            "mainClass": "Bucles.PidePantalla",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "PidePantallaNeg",
+            "request": "launch",
+            "mainClass": "Bucles.PidePantallaNeg",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Pract1",
+            "request": "launch",
+            "mainClass": "Bucles.Pract1",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "TablaMultiplicar",
+            "request": "launch",
+            "mainClass": "Bucles.TablaMultiplicar",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "TablaMultiplicarVisual",
+            "request": "launch",
+            "mainClass": "Bucles.TablaMultiplicarVisual",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "TareaBucle",
+            "request": "launch",
+            "mainClass": "Bucles.TareaBucle",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "TareaBucle2",
+            "request": "launch",
+            "mainClass": "Bucles.TareaBucle2",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "TareaBucle3",
+            "request": "launch",
+            "mainClass": "Bucles.TareaBucle3",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "TareaBucle4",
+            "request": "launch",
+            "mainClass": "Bucles.TareaBucle4",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ClasePrincipal",
+            "request": "launch",
+            "mainClass": "ClasePrincipal",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "AlgoritGeneros",
+            "request": "launch",
+            "mainClass": "Condicionales.AlgoritGeneros",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "AlgoritmoCalculoOperador",
+            "request": "launch",
+            "mainClass": "Condicionales.AlgoritmoCalculoOperador",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "DosNumeros",
+            "request": "launch",
+            "mainClass": "Condicionales.DosNumeros",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "EstructuraControl",
+            "request": "launch",
+            "mainClass": "Condicionales.EstructuraControl",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "EstructuraControl2",
+            "request": "launch",
+            "mainClass": "Condicionales.EstructuraControl2",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "IfMostrarTabla",
+            "request": "launch",
+            "mainClass": "Condicionales.IfMostrarTabla",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "IfMultiplo",
+            "request": "launch",
+            "mainClass": "Condicionales.IfMultiplo",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "IfParoImpar",
+            "request": "launch",
+            "mainClass": "Condicionales.IfParoImpar",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "IfPedirNum",
+            "request": "launch",
+            "mainClass": "Condicionales.IfPedirNum",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "IfPedirTres",
+            "request": "launch",
+            "mainClass": "Condicionales.IfPedirTres",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MayorMenor",
+            "request": "launch",
+            "mainClass": "Condicionales.MayorMenor",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ParImpar",
+            "request": "launch",
+            "mainClass": "Condicionales.ParImpar",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaBasico",
+            "request": "launch",
+            "mainClass": "Condicionales.ProgramaBasico",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "TareaCondicionales",
+            "request": "launch",
+            "mainClass": "Condicionales.TareaCondicionales",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "VentaDescuento",
+            "request": "launch",
+            "mainClass": "Condicionales.VentaDescuento",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "iFSumarNum",
+            "request": "launch",
+            "mainClass": "Condicionales.iFSumarNum",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifAdivinarNum",
+            "request": "launch",
+            "mainClass": "Condicionales.ifAdivinarNum",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifAlturaAlumnos",
+            "request": "launch",
+            "mainClass": "Condicionales.ifAlturaAlumnos",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifCalcularNum",
+            "request": "launch",
+            "mainClass": "Condicionales.ifCalcularNum",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifContador",
+            "request": "launch",
+            "mainClass": "Condicionales.ifContador",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifEscribir7",
+            "request": "launch",
+            "mainClass": "Condicionales.ifEscribir7",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifFactorial",
+            "request": "launch",
+            "mainClass": "Condicionales.ifFactorial",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifLeerNum",
+            "request": "launch",
+            "mainClass": "Condicionales.ifLeerNum",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifLeerParImpar",
+            "request": "launch",
+            "mainClass": "Condicionales.ifLeerParImpar",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifMostrarNum",
+            "request": "launch",
+            "mainClass": "Condicionales.ifMostrarNum",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifNPrimos",
+            "request": "launch",
+            "mainClass": "Condicionales.ifNPrimos",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifNotas",
+            "request": "launch",
+            "mainClass": "Condicionales.ifNotas",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifPedir10",
+            "request": "launch",
+            "mainClass": "Condicionales.ifPedir10",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifPedirNota",
+            "request": "launch",
+            "mainClass": "Condicionales.ifPedirNota",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ifTablaMulti",
+            "request": "launch",
+            "mainClass": "Condicionales.ifTablaMulti",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioDebug",
+            "request": "launch",
+            "mainClass": "EjercicioDebug",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "DiseñarEnunciado2",
+            "request": "launch",
+            "mainClass": "Math.DiseñarEnunciado2",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "DiseñarEnunciados4",
+            "request": "launch",
+            "mainClass": "Math.DiseñarEnunciados4",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "RadioCirculo",
+            "request": "launch",
+            "mainClass": "Math.RadioCirculo",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "TareaMath",
+            "request": "launch",
+            "mainClass": "Math.TareaMath",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "TareaMath2",
+            "request": "launch",
+            "mainClass": "Math.TareaMath2",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Matrices",
+            "request": "launch",
+            "mainClass": "Matrices",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Matrices2",
+            "request": "launch",
+            "mainClass": "Matrices2",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Matrices3",
+            "request": "launch",
+            "mainClass": "Matrices3",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Matrices4",
+            "request": "launch",
+            "mainClass": "Matrices4",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Matrices5",
+            "request": "launch",
+            "mainClass": "Matrices5",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Matrices6",
+            "request": "launch",
+            "mainClass": "Matrices6",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Matrices7",
+            "request": "launch",
+            "mainClass": "Matrices7",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "AlgoritmoCalculos",
+            "request": "launch",
+            "mainClass": "Operadores.AlgoritmoCalculos",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "CambiarVelocidad",
+            "request": "launch",
+            "mainClass": "Operadores.CambiarVelocidad",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ConversorCm",
+            "request": "launch",
+            "mainClass": "Operadores.ConversorCm",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "CosteLlamada",
+            "request": "launch",
+            "mainClass": "Operadores.CosteLlamada",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "DefinirEnunciado",
+            "request": "launch",
+            "mainClass": "Operadores.DefinirEnunciado",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "DiseñarEcuacion",
+            "request": "launch",
+            "mainClass": "Operadores.DiseñarEcuacion",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "DiseñarEnunciado3",
+            "request": "launch",
+            "mainClass": "Operadores.DiseñarEnunciado3",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "DosVariables",
+            "request": "launch",
+            "mainClass": "Operadores.DosVariables",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "IntroduceNombre",
+            "request": "launch",
+            "mainClass": "Operadores.IntroduceNombre",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAsignacion",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresAsignacion",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "PrecioIva",
+            "request": "launch",
+            "mainClass": "Operadores.PrecioIva",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "ProbandoCalculos",
+            "request": "launch",
+            "mainClass": "Operadores.ProbandoCalculos",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "SumarNum",
+            "request": "launch",
+            "mainClass": "Operadores.SumarNum",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "POO.AnimalMarino.Main",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainAula",
+            "request": "launch",
+            "mainClass": "POO.Aula.MainAula",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "POO.Biblioteca.Main",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "uso_caballo",
+            "request": "launch",
+            "mainClass": "POO.Caballo.uso_caballo",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainAccesos",
+            "request": "launch",
+            "mainClass": "POO.Calculadora.MainAccesos",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainCine",
+            "request": "launch",
+            "mainClass": "POO.Cine.MainCine",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Uso_Empleado",
+            "request": "launch",
+            "mainClass": "POO.Empleado.Uso_Empleado",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainEmpleados",
+            "request": "launch",
+            "mainClass": "POO.Empleados.MainEmpleados",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainInventario",
+            "request": "launch",
+            "mainClass": "POO.Inventario.MainInventario",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "PrimerosPasosII",
+            "request": "launch",
+            "mainClass": "POO.Persona.PrimerosPasosII",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "PersonaMain",
+            "request": "launch",
+            "mainClass": "POO.Persona2.PersonaMain",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainRectangulo",
+            "request": "launch",
+            "mainClass": "POO.Rectangulo.MainRectangulo",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainTiendaAnime",
+            "request": "launch",
+            "mainClass": "POO.TiendaAnime.MainTiendaAnime",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "VectorMain",
+            "request": "launch",
+            "mainClass": "POO.Vector.VectorMain",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "VectorMain2",
+            "request": "launch",
+            "mainClass": "POO.Vectores.VectorMain2",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "Uso_Coche",
+            "request": "launch",
+            "mainClass": "POO.Vehiculos.Uso_Coche",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "PolimorfismoAsignacion",
+            "request": "launch",
+            "mainClass": "Polimorfismos.Polimorfismo_Asignación.PolimorfismoAsignacion",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainVehiculo",
+            "request": "launch",
+            "mainClass": "Polimorfismos.Polimorfismo_Inclusion.MainVehiculo",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainFiguras",
+            "request": "launch",
+            "mainClass": "Polimorfismos.Polimorfismo_Puro.MainFiguras",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "MainCalculadora",
+            "request": "launch",
+            "mainClass": "Polimorfismos.Polimorfismo_Sobrecarga.MainCalculadora",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "DeterminarDias",
+            "request": "launch",
+            "mainClass": "String.DeterminarDias",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "StringII",
+            "request": "launch",
+            "mainClass": "String.StringII",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "StringIII",
+            "request": "launch",
+            "mainClass": "String.StringIII",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "StringIV",
+            "request": "launch",
+            "mainClass": "String.StringIV",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "StringV",
+            "request": "launch",
+            "mainClass": "String.StringV",
+            "projectName": "Programacion_Java_a09eabc"
+        },
+        {
+            "type": "java",
+            "name": "StringVI",
+            "request": "launch",
+            "mainClass": "String.StringVI",
+            "projectName": "Programacion_Java_a09eabc"
+        }
+    ]
+}
