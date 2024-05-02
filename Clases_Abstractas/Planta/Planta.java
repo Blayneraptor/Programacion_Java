@@ -3,8 +3,8 @@ package Clases_Abstractas.Planta;
 public abstract class Planta {
 
     // Atributos
-    protected String nombre;
-    protected String tipoSuelo;
+    private String nombre;
+    private String tipoSuelo;
 
     // Construcvtor
 
