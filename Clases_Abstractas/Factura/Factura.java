@@ -56,9 +56,21 @@ public abstract class Factura {
         return totalFinal;
     }
 
-    public void setTotalFinal(int totalFinal) {
-        this.totalFinal = totalFinal;
-    }
 
-  
+    //Métodos
+
+    public void getMostrarDatos(){
+        System.out.println("El número de factura es " + nfactura + 
+        "\n El importe es: " + importe + " euros" + 
+        "\n El IVA del producto es: " + iva + " euros" + 
+        "\n El detalle es: " + detalle + 
+        "\n El total final sería: " + totalFinal + " euros");
+    }
+    public void getCalcularIva(){
+       iva = (int) (importe * 0.21);
+    }
+    public void getTotalFinalconIva(){
+        getCalcularIva();
+        totalFinal = importe + iva;
+    }
 }
