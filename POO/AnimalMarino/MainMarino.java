@@ -1,5 +1,5 @@
 package POO.AnimalMarino;
-public class Main {
+public class MainMarino {
     public static void main(String[] args) {
         // Crear un objeto Pez
         Pez pez = new Pez("Pez Payaso", "Arrecife de Coral", 0.1, "Tropical");
