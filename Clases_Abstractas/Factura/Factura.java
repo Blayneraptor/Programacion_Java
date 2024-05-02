@@ -1,15 +1,15 @@
 package Clases_Abstractas.Factura;
 
 public abstract class Factura {
-    
-    //Atributos
+
+    // Atributos
     private int nfactura;
     private int importe;
     private int iva;
     private String detalle;
     private int totalFinal;
-   
-    //Constructor
+
+    // Constructor
     public Factura(int nfactura, int importe, int iva, String detalle, int totalFinal) {
         this.nfactura = nfactura;
         this.importe = importe;
@@ -18,5 +18,47 @@ public abstract class Factura {
         this.totalFinal = totalFinal;
     }
 
-     
+    //Getters y Setters
+
+    public int getNfactura() {
+        return nfactura;
+    }
+
+    public void setNfactura(int nfactura) {
+        this.nfactura = nfactura;
+    }
+
+    public int getImporte() {
+        return importe;
+    }
+
+    public void setImporte(int importe) {
+        this.importe = importe;
+    }
+
+    public int getIva() {
+        return iva;
+    }
+
+    public void setIva(int iva) {
+        this.iva = iva;
+    }
+
+    public String getDetalle() {
+        return detalle;
+    }
+
+    public void setDetalle(String detalle) {
+        this.detalle = detalle;
+    }
+
+    public int getTotalFinal() {
+        return totalFinal;
+    }
+
+    public void setTotalFinal(int totalFinal) {
+        this.totalFinal = totalFinal;
+    }
+
+  
 }
