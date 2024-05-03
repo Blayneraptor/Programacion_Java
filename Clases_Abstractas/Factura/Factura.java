@@ -25,8 +25,8 @@ public abstract class Factura {
     }
 
     public void setNfactura(int nfactura) {
-        this.nfactura = nfactura;
-    }
+        this.nfactura=nfactura;
+    } 
 
     public int getImporte() {
         return importe;
