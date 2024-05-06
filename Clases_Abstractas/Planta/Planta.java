@@ -6,7 +6,7 @@ public abstract class Planta {
     private String nombre;
     private String tipoSuelo;
 
-    // Construcvtor
+    // Constructor
 
     public Planta(String nombre, String tipoSuelo) {
         this.nombre = nombre;
