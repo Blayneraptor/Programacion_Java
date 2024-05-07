@@ -1,22 +1,20 @@
 public class Persona {
 
     // Atributos
-
     private String nombre;
     private String apellido;
     private int edad;
 
     // Constructor
-
-    public Persona(String nombre, String apellidos, int edad) {
+    public Persona(String nombre, String apellido, int edad) {
         this.nombre = nombre;
         this.apellido = apellido;
         this.edad = edad;
     }
 
-    // Getters
+    // Getters y Setters
     public String getNombre() {
-        return  nombre;
+        return nombre;
     }
 
     public String getApellido() {
@@ -27,7 +25,6 @@ public class Persona {
         return edad;
     }
 
-    // Setters
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
