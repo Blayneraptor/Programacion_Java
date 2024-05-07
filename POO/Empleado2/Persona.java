@@ -1,3 +1,4 @@
+package POO.Empleado2;
 public class Persona {
 
     // Atributos
