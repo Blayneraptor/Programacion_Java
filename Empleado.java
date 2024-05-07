@@ -13,7 +13,7 @@ public class Empleado extends Persona {
         
     }
 
-    //Métodos
+    //Setters y Getters
 
     public void setSueldo(double sueldo){
         this.sueldo=sueldo;
@@ -28,5 +28,14 @@ public class Empleado extends Persona {
     }
     public double getComision() {
         return comision;
+    }
+
+    //Metodos
+
+    public double getTotalCobrado(){
+        if (sueldo > 0 && comision > 0){
+            return sueldo+comision;
+        }
+        return 0;
     }
 }

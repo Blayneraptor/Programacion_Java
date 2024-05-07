@@ -3,28 +3,28 @@ public class Persona {
     // Atributos
 
     private String nombre;
-    private String apellidos;
+    private String apellido;
     private int edad;
 
     // Constructor
 
     public Persona(String nombre, String apellidos, int edad) {
         this.nombre = nombre;
-        this.apellidos = apellidos;
+        this.apellido = apellido;
         this.edad = edad;
     }
 
     // Getters
     public String getNombre() {
-        return "Nombre:" + nombre;
+        return  nombre;
     }
 
-    public String getApellidos() {
-        return "Apellidos:" + apellidos;
+    public String getApellido() {
+        return apellido;
     }
 
-    public String getEdad() {
-        return "Edad:" + edad;
+    public int getEdad() {
+        return edad;
     }
 
     // Setters
@@ -32,8 +32,8 @@ public class Persona {
         this.nombre = nombre;
     }
 
-    public void setApellidos(String apellidos) {
-        this.apellidos = apellidos;
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
     }
 
     public void setEdad(int edad) {
