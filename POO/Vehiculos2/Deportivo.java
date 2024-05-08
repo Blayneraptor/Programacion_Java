@@ -1,3 +1,4 @@
+package POO.Vehiculos2;
 public class Deportivo extends Vehiculo{
     
     // Propiedades
