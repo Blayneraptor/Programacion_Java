@@ -1,15 +1,14 @@
-import Polimorfismos.Polimorfismo_Inclusion.Vehiculo;
-
 public class Deportivo extends Vehiculo{
     
-    //Propiedades
+    // Propiedades
     private boolean descapotable;
 
-    public Deportivo(String matricula, String marca, String modelo, String color, int numPuertas, int potencia, boolean descapotable) {
+    public Deportivo(String matricula, String marca, String modelo, String color, int numPuertas, double potencia, boolean descapotable) {
         super(matricula, marca, modelo, color, numPuertas, potencia);
         this.descapotable = descapotable;
     }
 
+    // Getter y setter para descapotable
     public boolean isDescapotable() {
         return descapotable;
     }

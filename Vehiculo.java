@@ -2,7 +2,7 @@ public class Vehiculo {
 
     // Propiedades
 
-    private int matricula;
+    private String matricula;
     private String marca;
     private String modelo;
     private String color;
@@ -11,7 +11,7 @@ public class Vehiculo {
 
     // Constructor
 
-    public Vehiculo(int matricula, String marca, String modelo, String color, int Numpuertas, double potencia) {
+    public Vehiculo(String matricula, String marca, String modelo, String color, int Numpuertas, double potencia) {
         this.matricula = matricula;
         this.marca = marca;
         this.modelo = modelo;
@@ -20,18 +20,16 @@ public class Vehiculo {
         this.potencia = potencia;
 
         //Métodos
-
-    public getDatos(){
-        return "Matrícula: " + matricula + "n\ Marca: " + marca + "n\ Modelo: " + modelo + "n\ Color: " + color + "n\ Puertas: " + puertas + "n\ Potencia: " + potencia;
-
     }
+    public String getDatos() {
+        return "Matrícula: " + matricula + "\nMarca: " + marca + "\nModelo: " + modelo + "\nColor: " + color + "\nPuertas: " + Numpuertas + "\nPotencia: " + potencia;
     }
 
-    public int getMatricula() {
+    public String getMatricula() {
         return matricula;
     }
 
-    public void setMatricula(int matricula) {
+    public void setMatricula(String matricula) {
         this.matricula = matricula;
     }
 
