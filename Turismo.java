@@ -1,4 +1,4 @@
-public class Turismo {
+public class Turismo extends Vehiculo {
     
 
     //Propiedades

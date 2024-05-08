@@ -1,4 +1,4 @@
-public class Deportivo {
+public class Deportivo extends Vehiculo{
     
     //Propiedades
     private boolean descapotable;
