@@ -1,4 +1,4 @@
-package Polimorfismos.Polimorfismo_Puro;
+package Polimorfismos.Polimorfismo_Puro; 
 
 class Figuras {
     // Método para calcular el área de una figura genérica

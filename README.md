@@ -10,5 +10,5 @@
 ## Contenido
 
 Dentro de este repositorio encontrarás carpetas organizadas por tema, cada una con ejercicios específicos de programación. Los temas incluyen ejemplos de:
-- 📁 POO, arrays, bucles, condicionales, booleanas, polimorfismo , matrices, .String , .Math y operadores matemáticos.
+- 📁 POO, arrays, bucles, condicionales, booleanas, polimorfismo, matrices, .String , .Math y operadores matemáticos.
 
