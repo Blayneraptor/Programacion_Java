@@ -24,6 +24,7 @@ public class MainVehiculos {
          System.out.println("Color: " + vehiculo.getColor());
          System.out.println("Número de puertas: " + vehiculo.getNumpuertas());
          System.out.println("Potencia: " + vehiculo.getPotencia());
+         
 
             if (vehiculo instanceof Turismo) {
                 Turismo turismo = (Turismo) vehiculo;
