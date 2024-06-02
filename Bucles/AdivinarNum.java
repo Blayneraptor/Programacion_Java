@@ -28,10 +28,10 @@ public class AdivinarNum {
             num1 = sc.nextInt();
 
             if (num1 == numeroAleatorio) {
-                System.out.println("¡Enhorabuena, has adivinado el número!");
+                System.out.println("¡Enhorabuena,  has adivinado el número!");
                 break;
             } else {
-                System.out.println("Incorrecto. Inténtalo de nuevo.");
+                System.out.println("Incorrecto.  Inténtalo de nuevo.");
                 intentoActual++;
             }
         }
