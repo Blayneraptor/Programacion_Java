@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b22a956f-657e-421a-8ee7-5998346fdc48" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/Array1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/Array2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/Array3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/Array4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/Array5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/Array6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/Array7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayList9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/ArrayMulti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Arrays/PruebaArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Boolean/Boolean1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Boolean/Boolean2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Boolean/Boolean3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Boolean/Boolean4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Boolean/Boolean5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/AdivinarNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/CalcularMedia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/Calculos10num.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/DeterminarPrimo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/Foreach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/GenerarAleatorios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/GenerarDos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/ImprimirNombre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/ImprimirNum10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/ImprimirNumeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/PidePantalla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/PidePantallaNeg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/Pract1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/TablaMultiplicar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/TablaMultiplicarVisual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/TareaBucle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/TareaBucle2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/TareaBucle3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Bucles/TareaBucle4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Clases_Abstractas/Factura/Factura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Clases_Abstractas/Factura/FacturaElectronica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Clases_Abstractas/Factura/MainFactura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Clases_Abstractas/Planta/MainPlanta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Clases_Abstractas/Planta/Planta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Clases_Abstractas/Planta/PlantaExterior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/AlgoritGeneros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/AlgoritmoCalculoOperador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/DosNumeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/EstructuraControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/EstructuraControl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/IfMostrarTabla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/IfMultiplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/IfParoImpar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/IfPedirNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/IfPedirTres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/MayorMenor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ParImpar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ProgramaBasico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/TareaCondicionales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/VentaDescuento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/iFSumarNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifAdivinarNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifAlturaAlumnos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifCalcularNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifContador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifEscribir7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifFactorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifLeerNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifLeerParImpar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifMostrarNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifNPrimos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifNotas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifPedir10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifPedirNota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Condicionales/ifTablaMulti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Math/DiseñarEnunciado2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Math/DiseñarEnunciados4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Math/RadioCirculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Math/TareaMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Math/TareaMath2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Matrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Matrices2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Matrices3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Matrices4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Matrices5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Matrices6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Matrices7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/AlgoritmoCalculos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/CambiarVelocidad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/ConversorCm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/CosteLlamada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/DefinirEnunciado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/DiseñarEcuacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/DiseñarEnunciado3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/DosVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/IntroduceNombre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/OperadoresAsignacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/PrecioIva.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/ProbandoCalculos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Operadores/SumarNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Asignación/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Asignación/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Asignación/PolimorfismoAsignacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Inclusion/Coche.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Inclusion/MainVehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Inclusion/Vehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Puro/Figuras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Puro/MainFiguras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Sobrecarga/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Polimorfismos/Polimorfismo_Sobrecarga/MainCalculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/Programacion_Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/String/DeterminarDias.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/String/StringII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/String/StringIII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/String/StringIV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/String/StringV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion_Java/String/StringVI.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Blayneraptor"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Blayneraptor/Programacion_Java.git",
+    "accountId": "6fbb99c3-7108-484e-bf89-3135b8ad2487"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2hKCsY4Vo4TycYcgDKdpSN0fKco" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AdivinarNum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b22a956f-657e-421a-8ee7-5998346fdc48" name="Changes" comment="" />
+      <created>1717333588640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717333588640</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
